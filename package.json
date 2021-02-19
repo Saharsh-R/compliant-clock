@@ -1,0 +1,21 @@
+{
+  "homepage": "https://saharsh-r.github.io/compliant-clock/",
+  "name": "compliant-clock",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "clsx": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
+  }
+}
