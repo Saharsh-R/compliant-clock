@@ -19,7 +19,7 @@ function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
       {'Copyright © '}
-      <Link color="inherit" href="https://material-ui.com/">
+      <Link color="inherit" target="_blank" href="https://saharsh-r.github.io/">
         Saharsh Rathi
       </Link>{' '}
       {new Date().getFullYear()}
