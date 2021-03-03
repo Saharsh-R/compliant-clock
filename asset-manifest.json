@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/compliant-clock/static/js/main.8119e752.chunk.js",
-    "main.js.map": "/compliant-clock/static/js/main.8119e752.chunk.js.map",
+    "main.js": "/compliant-clock/static/js/main.98509fee.chunk.js",
+    "main.js.map": "/compliant-clock/static/js/main.98509fee.chunk.js.map",
     "runtime-main.js": "/compliant-clock/static/js/runtime-main.56508767.js",
     "runtime-main.js.map": "/compliant-clock/static/js/runtime-main.56508767.js.map",
     "static/js/2.2776cd22.chunk.js": "/compliant-clock/static/js/2.2776cd22.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.56508767.js",
     "static/js/2.2776cd22.chunk.js",
-    "static/js/main.8119e752.chunk.js"
+    "static/js/main.98509fee.chunk.js"
   ]
 }
